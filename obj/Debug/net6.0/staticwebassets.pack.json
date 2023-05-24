@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r215.10\\Desktop\\AB103HomeTask\\Bilet-1Project\\wwwroot\\assets\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.10\\Desktop\\AB103HomeTask\\Bilet-1Project\\wwwroot\\assets\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.10\\Desktop\\AB103HomeTask\\Bilet-1Project\\wwwroot\\assets\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.10\\Desktop\\AB103HomeTask\\Bilet-1Project\\wwwroot\\assets\\images\\hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.10\\Desktop\\AB103HomeTask\\Bilet-1Project\\wwwroot\\assets\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Bilet-1Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Bilet-1Project.props",
+      "PackagePath": "build\\Bilet-1Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Bilet-1Project.props",
+      "PackagePath": "buildMultiTargeting\\Bilet-1Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Bilet-1Project.props",
+      "PackagePath": "buildTransitive\\Bilet-1Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

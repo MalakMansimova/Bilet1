@@ -1,0 +1,10 @@
+﻿namespace Bilet_1Project.Models
+{
+    public class Recent
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string ImagePath { get; set; }
+    }
+}
